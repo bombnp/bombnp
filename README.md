@@ -1,6 +1,6 @@
 # Nut Pinyo. Yep, that's me.
 I like software engineering and data engineering. Mostly backend stuff.  
-Currently a fourth-year student at Chulalongkorn University.  
+Currently a Software Engineer at [Cleverse](https://github.com/Cleverse)
   
 
 ## Languages

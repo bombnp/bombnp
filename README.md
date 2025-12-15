@@ -1,6 +1,6 @@
 # Nut Pinyo. Yep, that's me.
 I like software engineering and data engineering. Mostly backend stuff.  
-Currently a Software Engineer at [Cleverse](https://github.com/Cleverse)
+Currently a Software Engineer at [LightArrayCapital](https://github.com/Capital)
   
 
 ## Languages
